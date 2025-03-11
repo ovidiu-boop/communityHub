@@ -1,0 +1,2 @@
+INSERT INTO events (title, description, date_time, location) VALUES ('Hackathon', 'Eveniment de programare', '2025-03-15T10:00:00', 'București');
+INSERT INTO events (title, description, date_time, location) VALUES ('Meetup Java', 'Discuții despre Spring Boot', '2025-04-10T18:00:00', 'Cluj-Napoca');
